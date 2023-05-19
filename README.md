@@ -5,11 +5,13 @@ Installation
 Clone the repository:
 
 git clone https://github.com/josephajay/laravel_test.git
+
+
 Install project dependencies:
 
-Copy code
 composer install
+npm install
 
-Copy code
+Start the application
 php artisan serve
 Access the application in your browser at http://localhost:8000.
